@@ -49,3 +49,5 @@ The pattern we use for this is:
 7. At last we will calculate the accuracy of the dataset provided by the function accuracy_score()
 ## Tech Stack 
 Jupyter notebook -: For creating our speech to emotion project.
+## Deployment video link:-
+<a href="https://youtu.be/HPVHlVrQsH8">
